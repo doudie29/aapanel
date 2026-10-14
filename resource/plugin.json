@@ -2397,6 +2397,46 @@
                     "size": 35691
                 }
             ]
+        },
+        {
+            "id": 149,
+            "pid": 100000063,
+            "type": 8,
+            "os": "Linux",
+            "price": "9.50",
+            "sort": 0,
+            "title": "Panel Users",
+            "name": "users",
+            "ps": "<p>Panel user management, supports multi-user management</p>",
+            "panel_pro": 0,
+            "panel_ltd": 0,
+            "panel_free": 0,
+            "panel_test": 0,
+            "version": "0",
+            "s_version": "0",
+            "manager_version": "1",
+            "c_manager_version": "1",
+            "dependent": "",
+            "mutex": "",
+            "install_checks": "/www/server/panel/plugin/users",
+            "uninstall_checks": "/www/server/panel/plugin/users",
+            "compile_args": 0,
+            "version_coexist": 0,
+            "icon": "",
+            "count": 0,
+            "endtime": 999999999999,
+            "authorization_sn": null,
+            "versions": [
+                {
+                    "m_version": "1",
+                    "version": "5",
+                    "dependent": "",
+                    "mem_limit": 0,
+                    "cpu_limit": 0,
+                    "os_limit": 0,
+                    "update_msg": "Optimize multi-user management"
+                }
+            ]
         }
     ]
 }
